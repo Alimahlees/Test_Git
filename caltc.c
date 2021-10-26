@@ -3,7 +3,7 @@ int fun(int x){};
 int main(){
 	int x = 5;
 	fun(x);
-	printf("%d ", x);
+	printf("The result is:%d ", x);
 	return 0;
 }
 
